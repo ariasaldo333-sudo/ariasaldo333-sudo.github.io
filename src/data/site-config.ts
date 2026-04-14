@@ -67,7 +67,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi Welcome to mi Profile',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence.\nMy approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products.\nI have a profound appreciation for top-notch software, visual design, and the principles of product-led growth.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        text: "I'm **Aldo Yair Arias Torrero Becerra**, am an Electronics Engineer and have experience in the field of quality since my first course at The Mudlogging Company, where we were trained as internal auditors to obtain the ISO 9001:2008 certificate. Later, at Huawei Technology, I reinforced my knowledge and skills, overcoming cultural barriers and standardizing protocols and procedures. I worked for different telecommunications companies such as: HUAWEI, FIBERHOME, TELMEX, TELCEL, TELEFONICA, TOTALPLAY, XCIEN, NEXTEL, IUSACEL, and ALESTRA, to name a few. Later, I worked in the industrial sector for companies such as: LG, KOHLER, GÜNTNER, and LENOVO.",
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
