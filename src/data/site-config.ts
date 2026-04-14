@@ -10,7 +10,7 @@ const siteConfig: SiteConfig = {
     },
     title: 'Aldo Arias',
     subtitle: 'QA Engineer',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    description: 'QA Engineer passionate about software quality ',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
