@@ -66,7 +66,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hi Welcome to mi Profile',
+        title: 'Hi Welcome to my Profile',
         text: "I'm **Aldo Yair Arias Torrero Becerra**, am an Electronics Engineer and have experience in the field of quality since my first course at The Mudlogging Company, where we were trained as internal auditors to obtain the ISO 9001:2008 certificate. Later, at Huawei Technology, I reinforced my knowledge and skills, overcoming cultural barriers and standardizing protocols and procedures. I worked for different telecommunications companies such as: HUAWEI, FIBERHOME, TELMEX, TELCEL, TELEFONICA, TOTALPLAY, XCIEN, NEXTEL, IUSACEL, and ALESTRA, to name a few. Later, I worked in the industrial sector for companies such as: LG, KOHLER, GÜNTNER, and LENOVO.",
         image: {
             src: hero,
