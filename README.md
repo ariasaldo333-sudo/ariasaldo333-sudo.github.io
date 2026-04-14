@@ -1,10 +1,7 @@
-# Dante - Astro & Tailwind CSS Theme by justgoodui.com
+# Aldo Arias 
 
-Dante is a single-author blog and portfolio theme for Astro.js. Featuring a minimal, slick, responsive and content-focused design. For more Astro.js themes please check [justgoodui.com](https://justgoodui.com/).
+Aldo Arias is a single-author blog and portfolio 
 
-![Dante Astro.js Theme](public/dante-preview.jpg)
-
-[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/JustGoodUI/dante-astro-theme)
 
 Clicking the button above ☝️ will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
 
