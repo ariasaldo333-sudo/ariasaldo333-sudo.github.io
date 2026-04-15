@@ -13,7 +13,7 @@ const siteConfig: SiteConfig = {
     description: 'QA Engineer passionate about software quality ',
     image: {
         src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        alt: 'Aldo Arias Portfolio'
     },
     headerNavLinks: [
         {
@@ -46,7 +46,7 @@ const siteConfig: SiteConfig = {
             text: 'Terms',
             href: '/terms'
         },
-        
+
     ],
     socialLinks: [
         {
@@ -57,11 +57,11 @@ const siteConfig: SiteConfig = {
             text: 'Github',
             href: 'https://github.com/ariasaldo333-sudo'
         },
-      
+
     ],
     hero: {
         title: 'Hi Welcome to my Portfolio',
-        text: "I'm **Aldo Yair Arias Torrero Becerra**, am an Electronics Engineer and have experience in the field of quality since my first course at The Mudlogging Company, where we were trained as internal auditors to obtain the ISO 9001:2008 certificate. Later, at Huawei Technology, I reinforced my knowledge and skills, overcoming cultural barriers and standardizing protocols and procedures. I worked for different telecommunications companies such as: HUAWEI, FIBERHOME, TELMEX, TELCEL, TELEFONICA, TOTALPLAY, XCIEN, NEXTEL, IUSACEL, and ALESTRA, to name a few. Later, I worked in the industrial sector for companies such as: LG, KOHLER, GÜNTNER, and LENOVO.",
+        text: "I'm **Aldo Yair Arias Torrero Becerra**, am an Electronics Engineer and have experience in the field of quality since my first course at The Oil and Gas Company, where we were trained as internal auditors to obtain the ISO 9001:2008 certificate. Later, at Huawei Technology and FiberHome, I reinforced my knowledge and skills, overcoming cultural barriers and standardizing protocols and procedures. I worked for different telecommunications companies national and international, Later I worked in the industrial sector where apply all my knodlege to manufacturing processes.",
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
